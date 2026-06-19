@@ -1,0 +1,7 @@
+# Do not commit real secrets or production IDs.
+MAKE_SCENARIO_NAME="Automated Export Account Transactions from Xero to Asana"
+ASANA_WORKSPACE_ID="replace_with_workspace_id"
+ASANA_PROJECT_ID="replace_with_project_id"
+GOOGLE_SHEET_ID="replace_with_sheet_id"
+GOOGLE_SHEET_STAGING_TAB="CSV Staging"
+XERO_TENANT_ID="stored_in_make_connection"
