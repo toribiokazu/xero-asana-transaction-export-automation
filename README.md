@@ -1,3 +1,32 @@
+# Xero to Asana Transaction Export Automation
+
+## Overview
+
+This automation exports account transactions from Xero, converts the data into a CSV file, and uploads the file to Asana for accounting review, reconciliation, and reporting.
+
+## Workflow
+
+Xero → Google Sheets → CSV Generation → Asana
+
+## Platform
+
+- Make.com
+- Xero
+- Google Sheets
+- Asana
+
+## Features
+
+- Automated transaction exports
+- CSV generation
+- Asana task attachment
+- Temporary data cleanup
+- Finance workflow automation
+
+## Public Scenario
+
+https://us2.make.com/public/shared-scenario/3niw9ogCiHQ/integration-asana-xero
+
 # Automated Export Account Transactions from Xero to Asana
 
 This Make.com workflow automates the export of account transaction data from Xero, formats the data as CSV-ready rows, uploads the CSV output to Asana, and logs processing details in Google Sheets.
