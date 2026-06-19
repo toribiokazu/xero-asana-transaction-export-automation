@@ -4,6 +4,10 @@
 
 This automation exports account transactions from Xero, converts the data into a CSV file, and uploads the file to Asana for accounting review, reconciliation, and reporting.
 
+## Workflow Diagram
+
+![Workflow](assets/workflow-screenshot.png)
+
 ## Workflow
 
 Xero → Google Sheets → CSV Generation → Asana
